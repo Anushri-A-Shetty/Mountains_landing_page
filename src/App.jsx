@@ -28,7 +28,7 @@ function App() {
         {/* ABOUT SECTION */}
         <section className='about' id='about'>
           <h2>About the mountains</h2>
-          <p>The mountains are calling, and we must go.Discover breathtaking views,peaceful trails and unforgettable experiences.</p>
+          <p>1Discover breathtaking views,peaceful trails and unforgettable experiences.</p>
         </section>
 
         {/*EXPLORE SECTION */}
@@ -80,7 +80,7 @@ function App() {
       
       </div>
       <footer className='footer'>
-        <p>&copy;2025 Mountain Landing Page|Built using React</p>
+        <p>&copy;2025 Mountain Landing Page</p>
       </footer>
 
     </>
